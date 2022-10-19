@@ -1,2 +1,2 @@
-# Institute-Infopanel-Ete
+# Preview:https://endterm.netlify.app/
 # Institute-Infopanel-Ete
